@@ -3,7 +3,7 @@
 ## Counter Application ##
 
 ### Location ###
-The application is available at the following link: [counter](https://comfy-panda-223652.netlify.app/).
+The application is available at the following link: [counter](https://counterpaologomiero.netlify.app/).
 
 ### Site functioning ###
 This project I propose is a simple counter, created with HTML, CSS and JavaScript. Once the webpage is open, you'll find a main counter, 
